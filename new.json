@@ -1,0 +1,10 @@
+{
+	{
+	"Full name":{
+		"Surname":" Смородин","Name":"Сергей","Patronymic":"Сергеевич"},
+	"Age":26,
+	"Pet":{
+		"Amount":null,"Animal":"null","Name":"null","Age":null},
+	"Preferred salary":100000
+}
+
