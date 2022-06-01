@@ -6,7 +6,7 @@
 	},
 	"Age":26,
 	"Pet":{
-		"Amount":null
+		"Amount":0
 	},
 	"Preferred salary":100000
 }
